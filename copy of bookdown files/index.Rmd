@@ -1,0 +1,18 @@
+--- 
+title: "Case studies of declining birds in Tennessee"
+author: "Max Patterson"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        facebook: false
+        twitter: false
+documentclass: book
+bibliography: [bibliography.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/pattemj0/Datastory3.git
+description: "A literature review of SDG 15: Life on Land with a special focus on birds in North America and the deforestation that impacts them."
+---

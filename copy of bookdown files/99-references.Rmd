@@ -1,0 +1,27 @@
+# Bibliography {-}
+
+Buehler, D. A., Roth, A. M., Vallender, R., Will, T. C., Confer, J. L., Canterbury, R. A., ... & Wood, P. B. (2007). Status and conservation priorities of Golden-winged Warbler (Vermivora chrysoptera) in North America. The Auk, 124(4), 1439-1456.
+
+Etter, A., McAlpine, C., Wilson, K., Phinn, S., & Possingham, H. (2006). Regional patterns of agricultural land use and deforestation in Colombia. Agriculture, Ecosystems & Environment, 114(2-4), 369-386. https://doi.org/10.1016/j.agee.2005.11.013 
+
+Evans, J. (2005). Assessing Forest Loss on the Cumberland Plateau: Implications for Forest Policy in Tennessee. Proceedings of the 11th Symposium on the Natural History of Lower Tennessee and Cumberland River Valleys, 3-13. https://www.apsu.edu/field-biology/files/11th_Symposium_Proceedings_2005.pdf#page=12
+
+Flatley, W. T., Lafon, C. W., Grissino-Mayer, H. D., & LaForest, L. B. (2013). Fire history, related to climate and land use in three southern Appalachian landscapes in the eastern United States. Ecological Applications, 23(6), 1250-1266. https://doi.org/10.1890/12-1662.1 
+Academia.edu
+
+Koenig, W. D., Walters, E. L., & Rodewald, P. G. (2017). Testing alternative hypotheses for the cause of population declines: The case of the Red-headed Woodpecker. Condor, 119(1), 143-154. doi:10.1650/condor-16-101.1
+
+Metz, E. M., & Pease, B. S. (2025, March 11). Avian conservation and ecology: Environmental relationships, decadal changes, and regional decline of eastern whip-poor-will (<em>antrostomus vociferus</em>) and Chuck-Will’s-widow (<em>antrostomus carolinensis</em>). Avian Conservation and Ecology -. https://ace-eco.org/vol19/iss1/art24/ 
+
+Moreno, N., Quintero, R., Ablan, M., Barros, R., Dávila, J. A., Ramírez, H., Tonella, G., & Acevedo, M. F. (2007). Biocomplexity of deforestation in the Caparo tropical forest reserve in Venezuela: An integrated multi-agent and cellular automata model. Environmental Modelling & Software, 22(5), 664–673. https://doi.org/10.1016/j.envsoft.2005.12.022
+
+Robbins, C. S., Sauer, J. R., Greenberg, R. S., & Droege, S. (1989). Population declines in North American birds that migrate to the neotropics. Proceedings of the National Academy of Sciences, 86(19), 7658-7662. doi.org 
+
+Rohrbaugh, R. W., Buehler, D. A., Swarthout, S. B., King, D. I., Larkin, J. L., Rosenberg, K. V., Roth, A. M., Vallender, R., & Will, T. (2016). Conservation perspectives: Review of new science and primary threats to golden-winged warblers. In H. M. Streby, D. E. Andersen, & D. A. Buehler (Eds.), Golden-winged Warbler ecology, conservation, and habitat management (Studies in Avian Biology No. 49, pp. 207–221). CRC Press.
+
+Rosenberg, K. V., Dokter, A. M., Blancher, P. J., Sauer, J. R., Smith, A. C., Smith, P. A., Stanton, J. C., Panjabi, A., Helft, L., Parr, M., & Marra, P. P. (2019). Decline of the North American avifauna. Science, 366(6461), 120–124. https://doi.org/10.1126/science.aaw1313
+
+Sheehan, J., Wood, P. B., Buehler, D. A., Keyser, P. D., Larkin, J. L., Rodewald, A. D., Wigley, T. B., Boves, T. J., George, G. A., Bakermans, M. H., Beachy, T. A., Evans, A., McDermott, M. E., Newell, F. L., Perkins, K. A., & White, M. (2014). Avian response to timber harvesting applied experimentally to manage Cerulean Warbler breeding populations. Forest Ecology and Management, 321, 5-18. https://doi.org/10.1016/j.foreco.2013.07.037
+
+Wood, P. B., Bosworth, S. B., & Dettmers, R. (2006). Cerulean Warbler abundance and occurrence relative to large-scale edge and habitat characteristics. The Condor, 108(1), 154-165. doi.org
+

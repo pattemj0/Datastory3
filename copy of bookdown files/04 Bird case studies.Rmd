@@ -1,0 +1,19 @@
+# Case studies of species in decline
+
+In this story we will look at several examples of bird species that are in decline. Each of these species faces different challenges because of their unique ecological niche and habitat preferences.
+
+## Red-headed Woodpecker
+
+The first case study is the Red-headed woodpecker. Data from the BBS and CBC show a decline in Red-headed woodpecker populations since the 1960s. To understand this decline, a study from 2017 compared several ecological factors to better understand it including increases in predation from accipiters such as hawks, competition from other species such as Red-bellied woodpeckers and invasive European Starlings, and finally changes in forest cover.  The study found that increased forest cover was significantly correlated to Red-headed Woodpecker declines (Koenig et al.,). It is possible that this is partly due to changes in fire frequencies resulting in forest change.
+
+## Cerulean Warbler
+
+The Cerulean Warbler is a bird that relies on forests with complex structure and ecological dynamics. As a result they may be more sensitive to anthropogenic disturbances such as deforestation. A recent study showed that in areas where forests had been cleared, edge effects had a significan impact on Cerulean Warblers. There numbers increase as with distance from the edge of the forest for 340 meters (Wood et al., 2006). As a result, clearing forests has negative impacts on this species. On a more positive note, another study found that forestry can be done in a manner that increases the abundance of Cerulean Warblers as well as other bird species (Sheehan et al., 2014). This is good news because it shows that it is possible to extract nutrients from a landscape that allows us to coexist with native species.
+
+## Golden-winged Warbler
+
+Another species that has undergone significant declines in Tennessee is the Golden-winged Warbler. In contrast to the Cerulean Warbler, the Golden-winged Warbler relies on shruby edge habitat. Forest succession and habitat loss is a large contributing factor to it's decline alongside ecological interactions with other species resulting from widespread ecological change occuring in recent decades. Habitat loss in South and central America where these birds migrate in the summer is also a large factor in their declines (Buehler et al., 2007). The USDA Forest Service recommends creating suitable habitat in the Appalachian region where this species has undergone a severe decline, as well as the protection of their habitat in South America through ecologically sound agroforestry practices especially in coffee production. They also recommend conserving stop-over  locations on their migratory path along the Gulf of Mexico (Rohrbaugh et al., 2016).
+
+## Whip-poor-will
+
+The Whip-poor-will is another bird species in decline. A recent study has shown that core forest habitat with little disturbance is a strong predictor of Whip-poor-will abundance (Metz & Pease, 2025). As a result it would be interesting to compare forest decline in Tennessee with the abundance of this species to see if there is a visible trend.
